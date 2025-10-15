@@ -1,0 +1,35 @@
+Tim Cook|Engineering|Alumni|CEO of Apple Inc., Class of 1982
+Jimmy Wales|Engineering|Alumni|Co-founder of Wikipedia, graduated 1989
+Samuel Ginn|Engineering|Alumni|Telecommunications pioneer, Ginn College namesake
+Charles Barkley|Business|Athlete-Basketball|NBA Hall of Famer, 1984 Olympic Gold Medalist
+Bo Jackson|Liberal Arts|Athlete-Football-Baseball|1985 Heisman Trophy winner, MLB All-Star
+Cam Newton|Liberal Arts|Athlete-Football|2010 Heisman Trophy winner, NFL MVP 2015
+Pat Sullivan|Business|Athlete-Football|1971 Heisman Trophy winner, former head coach
+Tracy Caulkins|Education|Athlete-Swimming|Three-time Olympic gold medalist, 48 national titles
+Frank Thomas|Liberal Arts|Athlete-Baseball|MLB Hall of Famer, five-time All-Star
+Pat Dye|Education|Coach-Football|99 wins as head coach, 4 SEC Championships 1981-1992
+Sonny Smith|Education|Coach-Basketball|173 wins, took Auburn to first Final Four 1986
+Octavia Spencer|Liberal Arts|Alumni|Academy Award winner for Best Supporting Actress
+Kathryn Tucker Windham|Liberal Arts|Alumni|Acclaimed storyteller and author
+Jan Davis|Engineering|Alumni|NASA astronaut, three Space Shuttle missions
+Loretta Spencer|Sciences|Alumni|First African American Mayor of Huntsville, AL
+Don Logan|Business|Alumni|Former Chairman of Time Inc.
+Reed Hastings|Business|Alumni|Co-founder and former CEO of Netflix, attended 1981-1983
+Howell Raines|Liberal Arts|Alumni|Former Executive Editor of The New York Times
+John Swofford|Business|Alumni|Former Commissioner of the ACC
+Chet Atkins|Agriculture|Alumni|Country music legend and record producer
+E.O. Wilson|Sciences|Alumni|Pulitzer Prize winning biologist, "father of biodiversity"
+Jack Simms|Veterinary Medicine|Alumni|Pioneering veterinarian and professor
+Rowdy Gaines|Education|Athlete-Swimming|Three-time Olympic gold medalist 1984
+Kermit Davis|Liberal Arts|Coach-Basketball|Former Auburn player and assistant coach
+Chuck Person|Education|Athlete-Basketball|NBA Rookie of the Year 1987, "The Rifleman"
+Karlos Dansby|Liberal Arts|Athlete-Football|Two-time Pro Bowl linebacker, played 2000-2003
+Takeo Spikes|Liberal Arts|Athlete-Football|Two-time Pro Bowl linebacker, played 1995-1997
+Gregg Olson|Business|Athlete-Baseball|1988 Golden Spikes Award winner, MLB All-Star
+Hal Bayne|Engineering|Coach-Baseball|Legendary coach, 735 career wins 1960-1990
+Mike Dyer|Liberal Arts|Athlete-Football|Key player in 2010 National Championship season
+Simone Biles|Education|Athlete-Gymnastics|Most decorated gymnast in history, 11 Olympic medals
+Jabari Smith|Liberal Arts|Athlete-Basketball|2022 NBA Draft 3rd overall pick, played 2021-2022
+Walker Kessler|Business|Athlete-Basketball|2022 SEC Defensive Player of Year, NBA All-Rookie 2023
+Johni Broome|Liberal Arts|Athlete-Basketball|2024 SEC Player of the Year, led Tigers to Final Four
+Bruce Pearl|Education|Coach-Basketball|Led Auburn to first Final Four in 2019 and 2025
